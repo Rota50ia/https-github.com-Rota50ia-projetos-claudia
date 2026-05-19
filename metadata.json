@@ -1,0 +1,6 @@
+{
+  "name": "Seus Gestos - Música e Memória",
+  "description": "Projeto cultural de música MPB em Goiás, estrelando Cláudia Vieira e Felipe Valoz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
